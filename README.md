@@ -14,8 +14,24 @@ This repository contains LLMs use cases and studies
 
 
 # Use cases
+# I. Help Desk from Confluence data
 
-## I. Smartphone advisor
+**Help desk** allows you to create a Question Answering bot in streamlit using your company Confluence data.
+
+[Code here](./use_cases/confluence_help_desk)
+
+[Documentation here](./use_cases/confluence_help_desk/README.md)
+
+To run the streamlit app run:
+```
+cd use_cases/confluence_help_desk
+streamlit run streamlit.py
+```
+
+!["Streamlit"](./images/use_cases/confluence_help_desk/confluence_help_desk.png)
+
+
+# II. Smartphone advisor
 
  **Smartphone advisor** is a LLM Chain Chat Bot that answer technical questions about tech products.
 
@@ -34,5 +50,11 @@ You will learn with this use case the following concepts:
 - **Contextual Compression & Self Query Retriever**
 - **Stuff, Refine, Map Reduce & Map Rerank chain types**
 - **Retrieval QA Chain vs Conversational Retrieval Chain**
+
+To run the streamlit app run:
+```
+cd use_cases/confluence_help_desk
+streamlit run 7_streamlit_app.py
+```
 
 !["Streamlit"](./images/use_cases/smartphone_advisor/smartphone_advisor.gif)

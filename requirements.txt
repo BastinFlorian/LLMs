@@ -19,3 +19,6 @@ pinecone-client
 chromadb==0.3.26
 clickhouse-connect  # MyScale
 
+# Confluence
+atlassian-python-api
+lxml

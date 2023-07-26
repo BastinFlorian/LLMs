@@ -12,6 +12,7 @@ __pycache__/
 
 # Smartphone advisor
 use_cases/smartphone_advisor/docs/
+use_cases/confluence_help_desk/db/
 
 # Distribution / packaging
 .Python
