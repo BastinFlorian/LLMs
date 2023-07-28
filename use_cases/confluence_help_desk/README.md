@@ -1,6 +1,6 @@
 # I. Help Desk from Confluence data
 ## Retrieval QA on your Confluence database company
-!["Streamlit"](../../images/use_cases/confluence_help_desk/help_desk.png)
+!["Streamlit"](../../images/use_cases/confluence_help_desk/confluence_help_desk.png)
 
 ## How it works ?
 The process is the following:
